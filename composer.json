@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/fiqh-php-safar-qasr-distance",
+  "description": "Musafir Prayer Qasr & Jam' Distance Threshold Evaluator (حاسبة مسافة القصر والجمع في السفر بالوحدات المعاصرة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
